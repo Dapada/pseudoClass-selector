@@ -15,7 +15,18 @@
   	margin-bottom: 3px;
   }
 
+
   a:hover, a:active {
   	background-color: blue;
   	color: white;
+  }
+
+
+  header li:nth-child(3) {
+  	font-size: 18px;
+  }
+
+
+  section div:nth-child(10) {
+  	font-style: oblique;
   }

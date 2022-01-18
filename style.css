@@ -30,3 +30,8 @@
   section div:nth-child(10) {
   	font-style: oblique;
   }
+
+
+  section div:nth-child(odd) {
+  	background-color: gray;
+  }
